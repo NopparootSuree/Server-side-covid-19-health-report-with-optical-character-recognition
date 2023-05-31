@@ -1,0 +1,9 @@
+{
+  "projects": {
+    "default": "react-vital-signs",
+    "dev": "react-vital-signs",
+    "prod": "react-vital-signs"
+  },
+  "targets": {},
+  "etags": {}
+}
